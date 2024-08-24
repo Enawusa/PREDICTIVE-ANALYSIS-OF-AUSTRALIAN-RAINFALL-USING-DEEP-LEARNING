@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYSIS-OF-AUSTRALIAN-RAINFALL-USING-DEEP-LEARNING
+This repository explores the application of various deep learning models, including LSTM, RNN, and GRU, to predict rainfall in Australia. By leveraging a comprehensive meteorological dataset from Kaggle, the study aims to enhance weather forecasting accuracy, which is crucial for agriculture, water resource management, and disaster prevention.
